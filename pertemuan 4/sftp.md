@@ -30,6 +30,5 @@ periksa kembali hak akses folder dengan perintah (ls -l /var/www/html)
 
 7. kita lakukan editing pada file index.html setelah hak akses folder sudah diubah
 ![alt text](image-4.png)
-
 8. Pastikan Desain Responsif
 ![alt text](image-5.png)
