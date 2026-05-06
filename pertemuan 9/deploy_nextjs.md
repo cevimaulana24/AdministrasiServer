@@ -10,6 +10,6 @@
  - testing Back end http://localhost:3000/admin
     username: admin
     password: admin123
-
+![alt text](image.png)
  - Create static File -> npm run build
  - Archive folder standalone -> zip -> klik kanan folder standalone -> send to -> compressed (zipped) folder
