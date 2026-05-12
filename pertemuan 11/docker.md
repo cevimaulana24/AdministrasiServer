@@ -58,4 +58,3 @@
  - add ubuntu to docker group -> sudo usermod -aG docker ubuntu
  - commit dan push -> dan cek di website
 
- ![alt text](image-6.png)
