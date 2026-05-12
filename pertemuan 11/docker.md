@@ -15,7 +15,7 @@
  - create repo -> (hub->repo->New)
  - Create Tokens ( Klik Profile->Account Setting ->Security ->Access Tokens -> Generate new token)
  - Simpan token jangan sampai hilang
- ![alt text](image-1.png)
+![alt text](image-1.png)
 
  5. Create Repo di Github
  - Membuat Repo baru dengan nama himafor_nim
@@ -57,4 +57,4 @@
  - sudo systemctl disable nginx
  - add ubuntu to docker group -> sudo usermod -aG docker ubuntu
  - commit dan push -> dan cek di website
-
+![alt text](image-6.png)
